@@ -1,4 +1,3 @@
-# ResUNet-Medical-Image-Segmentation1
 # Brain Tumour Detection and Segmentation using ResUNet
 
 A deep learning pipeline for automated brain tumour detection and segmentation
